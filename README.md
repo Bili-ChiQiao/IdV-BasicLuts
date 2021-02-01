@@ -21,3 +21,4 @@ ChiQiaoLuts_Park_Unhurt_Basic_2：月亮河公园（满血状态）
 
 ChiQiaoLuts_Town_Basic_2：永眠镇
 
+ChiQiaoLuts_ChinaTown_Basic3：唐人街

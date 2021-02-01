@@ -1,0 +1,15 @@
+谢谢大家一路以来的支持！这套预设包由赤桥免费提供给大家！
+记得在B站支持我哟!谢谢各位！（B站：赤桥）
+请勿二传！请勿售卖！
+
+为了解决兼容性的问题，文件名为英文，请谅解！
+文件名解释：
+ChiQiaoLuts_Church_Basic_2：红教堂调色基础预设
+ChiQiaoLuts_Factory_Basic_2：军工厂
+ChiQiaoLuts_Hospital_Basic：圣心医院
+ChiQiaoLuts_LakeVillage_Basic_2：湖景村
+ChiQiaoLuts_Memories_Basic_2：里奥的回忆
+ChiQiaoLuts_Park_Injured_Basic_4：月亮河公园（受伤时）
+ChiQiaoLuts_Park_Unhurt_Basic_2：月亮河公园（满血状态）
+ChiQiaoLuts_Town_Basic_2：永眠镇
+ChiQiaoLuts_ChinaTown_Basic3：唐人街
